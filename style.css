@@ -10,7 +10,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('santamonica.png');
+    background: url('Photos/santamonica.png');
     background-size:cover;
     position:relative;
     padding: 0;
